@@ -1,0 +1,3 @@
+"""
+INRIA Machine Learning MOOC
+"""
